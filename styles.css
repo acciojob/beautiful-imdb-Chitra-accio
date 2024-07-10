@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+.moviePic{
+	width:600px;
+	height:300px;
+	opacity:10px;
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthAY4-40CfIeuc7sJh_5Lxb2bv4dXcVJ-6A&s");
+	background-size:cover;
+}
+.movieDetail{
+	width:600px;
+	position:center;
+	top:50px;
+	text-align:justify;
+	font-size:15px;
+	background-color:rgb(80,100,70);
+	text-shadow:5px;
+}
